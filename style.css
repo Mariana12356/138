@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-image:url(abacf331730265d48bdb4580d341e2e8--wallpaper-for-mobile-wallpaper-ideas.jpg);
+    background-position: center;
+    background-size: 10%;
+    font-family: 'Handjet', cursive;
+}
+
+#mario{
+    width: 50%;
+    border-radius: 40px;
+    border: 5px solid white;
+}
+
+.titulos{
+    color:white;
+    background-color:#d24545 ;
+    margin-top: 0;
+    font-size: 40px;
+    padding-top: 10px;
+    word-spacing: 40px;
+    width: 50%;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: 5px  solid white;
+}
+
+button{
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid white;
+    background-color: #d24545;
+    color: white;
+    margin: 20px;
+}
+
+video{
+    background: url(game_console.png);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    border-radius: 50px;
+}
